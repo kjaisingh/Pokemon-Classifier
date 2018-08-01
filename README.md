@@ -17,8 +17,8 @@ A Keras-constructed model implemented as a real-time iOS Application that allows
 
 
 # Application Screenshots:
-![Bulbasaur](Resources/bulbasaur.PNG)
-![Pikachu](Resources/pikachu.PNG)
-![Mewtwo](Resources/mewtwo.PNG)
-![Squirtle](Resources/squirtle.PNG)
-![Charmander](Resources/charmander.PNG)
+![Bulbasaur](resources/bulbasaur.PNG)
+![Pikachu](resources/pikachu.PNG)
+![Mewtwo](resources/mewtwo.PNG)
+![Squirtle](resources/squirtle.PNG)
+![Charmander](resources/charmander.PNG)
