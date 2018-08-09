@@ -20,5 +20,4 @@ A Keras-constructed model implemented as a real-time iOS Application that allows
 ![Bulbasaur](resources/bulbasaur.PNG)
 ![Pikachu](resources/pikachu.PNG)
 ![Mewtwo](resources/mewtwo.PNG)
-![Squirtle](resources/squirtle.PNG)
 ![Charmander](resources/charmander.PNG)
